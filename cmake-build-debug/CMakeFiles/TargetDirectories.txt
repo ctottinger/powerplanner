@@ -1,0 +1,3 @@
+D:/DEV/CLion/powerplanner/cmake-build-debug/CMakeFiles/powerplanner.dir
+D:/DEV/CLion/powerplanner/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DEV/CLion/powerplanner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
