@@ -7,6 +7,5 @@ using namespace std;
 int main() {
     for(auto & plan : getPowerPlanNames())
         std::cout << plan << endl;
-
     return 0;
 }
